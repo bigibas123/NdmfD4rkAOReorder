@@ -1,0 +1,13 @@
+{
+  "name": "tk.dingemans.bigibas123.Ndmfd4rkAOReorder",
+  "references": [
+	"nadena.dev.ndmf",
+	"VRC.SDKBase.Editor",
+	"d4rkpl4y3r.d4rkavataroptimizer.Editor"
+  ],
+  "precompiledReferences": [
+  ],
+  "includePlatforms": [
+	"Editor"
+  ]
+}
