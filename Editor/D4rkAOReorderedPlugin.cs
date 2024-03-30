@@ -1,3 +1,4 @@
+using System.IO;
 using System.Runtime.CompilerServices;
 using d4rkpl4y3r.AvatarOptimizer;
 using nadena.dev.ndmf;
@@ -25,7 +26,7 @@ namespace tk.dingemans.bigibas123.Ndmfd4rkAOReorder
 					AvatarBuildHook hook = new AvatarBuildHook();
 					if (!hook.OnPreprocessAvatar(ctx.AvatarRootObject))
 					{
-						throw new RuntimeWrappedException("D4rke returned false, look at the logs for more details");
+						throw new InvalidDataException("D4rke returned false, look at the logs for more details");
 					}
 					Debug.LogError("Doing nothing now!");
 				});
