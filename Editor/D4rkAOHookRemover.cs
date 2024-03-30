@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using VRC.SDKBase.Editor;
 
-namespace tk.dingemans.bigibas123.Ndmfd4rkAOReorder
+namespace cc.dingemans.bigibas123.Ndmfd4rkAOReorder
 {
 	public class D4rkAOHookRemover
 	{
