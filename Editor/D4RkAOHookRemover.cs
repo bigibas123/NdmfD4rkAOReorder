@@ -7,7 +7,7 @@ using VRC.SDKBase.Editor;
 
 namespace cc.dingemans.bigibas123.Ndmfd4rkAOReorder
 {
-	public class D4rkAOHookRemover
+	public class D4RkAOHookRemover
 	{
 		private static readonly string TAG = "[D4rkAOReordered]";
 

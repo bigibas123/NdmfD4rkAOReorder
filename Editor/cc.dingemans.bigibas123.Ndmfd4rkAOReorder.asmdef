@@ -1,5 +1,6 @@
 {
   "name": "cc.dingemans.bigibas123.Ndmfd4rkAOReorder",
+  "rootNamespace": "cc.dingemans.bigibas123.Ndmfd4rkAOReorder",
   "references": [
 	"nadena.dev.ndmf",
 	"VRC.SDKBase.Editor",

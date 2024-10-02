@@ -19,7 +19,6 @@ namespace cc.dingemans.bigibas123.Ndmfd4rkAOReorder
 			InPhase(BuildPhase.Optimizing)
 				.AfterPlugin("com.anatawa12.avatar-optimizer")
 				.AfterPlugin("nadena.dev.modular-avatar")
-				.AfterPlugin("cc.dingemans.bigibas123.NdmfVrcfReorder.VrcfReorderedPlugin")
 				.Run("D4rkAO but at a non-default time", ctx =>
 				{
 					//d4rkpl4y3r.AvatarOptimizer.

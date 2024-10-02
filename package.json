@@ -10,7 +10,7 @@
   "description": "Removes d4rk's upload hooks and makes it run as a part of ndmf",
   "vpmDependencies": {
     "nadena.dev.ndmf": ">=1.0.0",
-    "d4rkpl4y3r.d4rkavataroptimizer": ">=3.6.0"
+    "d4rkpl4y3r.d4rkavataroptimizer": "3.6.0"
   },
   "url": "https://github.com/bigibas123/NdmfD4rkAOReorder.git",
   "legacyFolders": {},
